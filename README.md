@@ -3,8 +3,12 @@
 Premium autoscript installer used to install SSH, STUNNEL, OVPN, and SQUID PROXY on your VPS. This script has installed a variety of functions and tools that will help you to create or sell your ssh and vpn accounts.
 
 ### Update:
--IPTables has been removed; causing interference with internet connectivity, causing all connection cannot be established.
+-IPTables has been removed; causing interference with internet connectivity, making all connection cannot be established.
+
+-Fix menu not shown in terminal. Perma-link has been fixed and added into the script. 
+
 -Added zip installation on the script.
+
 -With all due respect, all source credit to DopeKidVPN. I just re-modified certain things to make things available to install and use on-the-go.
 
 ### Installation:
